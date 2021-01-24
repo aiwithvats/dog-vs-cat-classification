@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Home_PC\\Desktop\\dog vs cat classification\\dogsvscats-0.001-6conv-basic.model"
+all_model_checkpoint_paths: "C:\\Users\\Home_PC\\Desktop\\dog vs cat classification\\dogsvscats-0.001-6conv-basic.model"

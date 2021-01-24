@@ -1,0 +1,9 @@
+dogsvscats-0.001-2conv-basic.model.data-00000-of-00001
+dogsvscats-0.001-2conv-basic.model.index
+dogsvscats-0.001-2conv-basic.model.meta
+dogsvscats-0.001-6conv-basic.model.data-00000-of-00001
+dogsvscats-0.001-6conv-basic.model.index
+dogsvscats-0.001-6conv-basic.model.meta
+dogvscat.py
+test_data.npy
+train_data.npy
